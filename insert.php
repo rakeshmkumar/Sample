@@ -1,7 +1,7 @@
 <?php
 
 
-$con = mysqli_connect(remotemysql.com,HAIxhNBolo,Sq1REro6fT)
+$con = mysqli_connect(localhost,HAIxhNBolo,Sq1REro6fT)
 
 if(!$con){
 	echo 'Not connected to server';
