@@ -26,6 +26,6 @@ else{
 	echo 'Inserted';
 	}
 
-header("refresh:2; url=index.html");
+header("refresh:2; url=https://rakeshmkumar.github.io/Sample/");
 
 ?>
